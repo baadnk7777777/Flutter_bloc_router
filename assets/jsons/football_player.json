@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Cristiano Ronaldo",
+      "position": "Forward",
+      "club": "Manchester United",
+      "country": "Portugal",
+      "age": 37
+    },
+    {
+      "name": "Lionel Messi",
+      "position": "Forward",
+      "club": "Paris Saint-Germain",
+      "country": "Argentina",
+      "age": 35
+    },
+    {
+      "name": "Neymar Jr.",
+      "position": "Forward",
+      "club": "Paris Saint-Germain",
+      "country": "Brazil",
+      "age": 30
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "position": "Midfielder",
+      "club": "Manchester City",
+      "country": "Belgium",
+      "age": 31
+    },
+    {
+      "name": "Robert Lewandowski",
+      "position": "Forward",
+      "club": "Bayern Munich",
+      "country": "Poland",
+      "age": 33
+    },
+    {
+      "name": "Virgil van Dijk",
+      "position": "Defender",
+      "club": "Liverpool",
+      "country": "Netherlands",
+      "age": 30
+    },
+    {
+      "name": "Kylian Mbappé",
+      "position": "Forward",
+      "club": "Paris Saint-Germain",
+      "country": "France",
+      "age": 24
+    },
+    {
+      "name": "Sergio Ramos",
+      "position": "Defender",
+      "club": "Paris Saint-Germain",
+      "country": "Spain",
+      "age": 36
+    },
+    {
+      "name": "Mohamed Salah",
+      "position": "Forward",
+      "club": "Liverpool",
+      "country": "Egypt",
+      "age": 29
+    },
+    {
+      "name": "Bruno Fernandes",
+      "position": "Midfielder",
+      "club": "Manchester United",
+      "country": "Portugal",
+      "age": 28
+    }
+  ]
+  
